@@ -25,7 +25,7 @@ I can deploy a complete CI/CD pipeline faster than making a cup of coffee!
 ## DevOps Skills and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python,maven,jenkins,tomcat" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,maven,jenkins,tomcat" />
   </a>
 </p>
 
