@@ -1,4 +1,4 @@
-# My_profile
+# ABOUT ME
 <h3>Hi, I’m Ayush Gupta👋 </h3> 
 
 👀 I’m interested in
