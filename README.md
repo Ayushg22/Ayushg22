@@ -23,12 +23,15 @@ I can deploy a complete CI/CD pipeline faster than making a cup of coffee!
 ---
 
 ## DevOps Skills and Tools
+<!-- Assuming you have an element with a class 'icon' -->
+<div class="icon" style="width: 50px; height: 50px;">
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,maven,jenkins,tomcat" width: 50px; height: 50px; />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,maven,jenkins,tomcat" />
   </a>
 </p>
-
+</div>
 ### 🛠️ Tools & Technologies
 - **Maven**: Streamlining project builds and dependency management.
 - **Git**: Version control for tracking changes and collaborating effectively.
